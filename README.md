@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Zainab
 
-<!--
-**DataForBetter/DataForBetter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business intelligence analyst in Lagos, Nigeria. I work at the point where business strategy meets analytics, using Excel, SQL and Power BI to turn a question a manager actually has into an answer they can act on.
 
-Here are some ideas to get you started:
+Currently a graduate trainee in business advisory at Andersen, formerly Verraki Partners, supporting strategy, operational improvement and organisational diagnostic engagements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Portfolio:** [dataforbetter.github.io](https://dataforbetter.github.io/)
+
+### Projects
+
+| Project | What it answers | Tools |
+| --- | --- | --- |
+| [Adun Foods distributor network](https://github.com/DataForBetter/Adun-Foods-Analysis) | Where is a Nigerian FMCG distributor network exposed, and where is its revenue moving? | Power BI, Power Query, Python |
+
+More case studies, including customer analytics for an online coffee retailer and a production performance diagnosis for a beverage manufacturer, are written up on the portfolio site.
+
+### What I work with
+
+`Power BI` `DAX` `Power Query` `SQL` `Excel` `Python`
+
+### How I approach a problem
+
+1. **Structure it.** Define the business question and the decision it supports before touching the data.
+2. **Work the data.** Model it, check it, and test what it actually shows rather than what you expected.
+3. **Say what to do.** Turn the finding into an implication and a recommendation, with the limits stated.
+
+📍 Lagos, Nigeria
